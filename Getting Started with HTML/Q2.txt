@@ -1,0 +1,6 @@
+Comment
+
+Comment tag is used to insert comments in a source code.
+comments are not displayed  in the browser or webpage.
+Comments are used to explain your code.
+Syntax : - <!-- Write your comments here -->
